@@ -52,10 +52,12 @@ The official token smart contract is available in the `/contracts` folder.
 
 ## 📄 Resources
 
+## 📄 Resources
+
 - 🌐 Website: [https://barinmineraltoken.com](https://barinmineraltoken.com)  
-- 📃 Whitepaper: [`docs/Whitepaper_EN.pdf`](docs/Whitepaper_EN.pdf)  
+- 📃 Whitepaper: [docs/Whitepaper_EN.pdf](docs/Whitepaper_EN.pdf)  
 - ✅ Audit Report: [View on Cyberscope](https://cyberscope.io/audits/barin)  
-- 📊 Tokenomics: [`tokenomics/Initial_Tokenomics.md`](tokenomics/Initial_Tokenomics.md)  
+- 📊 Tokenomics: [tokenomics/Initial_Tokenomics.md](tokenomics/Initial_Tokenomics.md)  
 - 📈 Coinstore Listing: [BARIN/USDT on Coinstore](https://www.coinstore.com/spot/BARINUSDT?ts=1752008098054)
 
 ---
