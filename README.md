@@ -15,6 +15,11 @@ Barin Mineral Token is a utility token backed by real-world mineral resources, b
 The BARIN smart contract was successfully audited by **Cyberscope**, ensuring high-level security and reliability.
 
 📄 [Download Audit Report (PDF)](https://github.com/BarinMT/Barin-Mineral-Token-Introduction/raw/main/docs/Reaudit_Final.pdf)
+## 🪙 Token Contract
+
+BARIN Token is deployed on the Polygon network.
+
+🔗 [View Token on PolygonScan](https://polygonscan.com/token/0x559f11777626381e1566fedcf59f454e005316d1)
 - 🔍 Smart Contract: [0x559f11777626381e1566fedcf59f454e005316d1](https://polygonscan.com/address/0x559f11777626381e1566fedcf59f454e005316d1)
 - 📑 Vesting Contract: [0x63b12f740d484ccce5796ebfe86b23352648cb55](https://polygonscan.com/address/0x63b12f740d484ccce5796ebfe86b23352648cb55)
 
