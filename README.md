@@ -1,3 +1,5 @@
+📄 [View Whitepaper](docs/Whitepaper_EN.pdf)
+📊 [View Tokenomics](docs/Tokenomics_EN.pdf)
 # Barin Mineral Token (BARIN)
 
 Barin Mineral Token is a utility token backed by real-world mineral resources, bridging the traditional mining sector with decentralized finance (DeFi). With 20+ years of experience in mining, processing, and exporting copper, iron ore and other minerals, Barin Mineral Token is the next evolution—tokenizing hard assets into secure, transparent, and on-chain value.
